@@ -10,7 +10,7 @@ const EndComponent = () => {
           <p>
             <span>Impactful advisor network</span>
           </p>
-          <p  className="paragraph">
+          <p className="paragraph">
             We work with a number of external consultants<br></br> and experts,
             as well as interact with logistics <br></br>leaders at various
             associations and forums, <br></br>to help navigate the business

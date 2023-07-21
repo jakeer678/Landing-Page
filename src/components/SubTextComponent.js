@@ -28,8 +28,11 @@ const SubTextComponent = () => {
         </div>
         <div className="subheadings">
           <p>
-            India’s leading <br></br>integrated logistics company <br></br><hr></hr>30 years of experience<br></br><hr></hr>
-            Network in 180 countries <br></br><hr></hr>19,800 PIN Codes served in India<hr></hr>
+            India’s leading <br></br>integrated logistics company <br></br>
+            <hr></hr>30 years of experience<br></br>
+            <hr></hr>
+            Network in 180 countries <br></br>
+            <hr></hr>19,800 PIN Codes served in India<hr></hr>
           </p>
         </div>
       </div>

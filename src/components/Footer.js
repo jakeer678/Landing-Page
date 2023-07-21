@@ -14,8 +14,8 @@ const Footer = () => {
           <div className="sideheading">
             <p>
               Ready to accelerate growth and progress with Allcargo Group’s
-              start-up <br></br>accelerator? Tell us how you want to collaborate and
-              create logistics magic, together.
+              start-up <br></br>accelerator? Tell us how you want to collaborate
+              and create logistics magic, together.
             </p>
             <button type="button" className="btnbtn">
               WRITE TO US
