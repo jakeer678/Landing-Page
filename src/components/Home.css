@@ -49,7 +49,6 @@
         left:28%; 
         transform: translate(-50%, -50%);
         color: white; 
-        
     }
 
     .image-text h1 {
@@ -67,13 +66,14 @@
     border-color:white;
     color: rgb(221, 220, 220);
     margin-top: 0.8rem;
-    padding-left: 1rem;
-    padding-right: 1.2rem;
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
     border-radius: 2rem;
     padding-top: 0.4rem;
     padding-bottom: 0.4rem;
     opacity: 0.9;
- 
+   scale: 1;
+   
     }
  
 }
