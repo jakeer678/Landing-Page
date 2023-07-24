@@ -7,7 +7,8 @@
     .container  {
        display: flex;
        align-items: center;
-       margin-left: 5rem;
+       margin-left:100px;
+      margin-top: 25px;
     }
      .main-container {
         display: flex;
@@ -16,27 +17,34 @@
      }
      .container p {
         font-size: 12px;
-        padding-left: 1rem;
-        padding-top: 2rem;
+        padding-left: 14px;
+        padding-top: 24px;
         opacity: 0.8;
+
+     }
+     .images_img {
+      width:20%;
+   height:220px;
+   object-fit:cover;
+   object-position:10% 10%;
+   border-radius: 20px;
+   margin-left: 15px;
      }
      .container_bottom {
-        display: flex;
-        align-items: center;
-        margin-left: 5rem;
-        margin-top: 4rem;
+      display: -webkit-box;
+        margin-left: 100px;
+        margin-top: 50px;
+        margin-bottom: -220px;
+        
      }
-      .container_bottom img {
-        width: 40rem;
-       height: 10rem;
-        border-radius: 2rem;
-      }
+   
       .container_bottom p {
-        margin-right: 5rem;
-        margin-left: 4rem;
+         margin-left: 260px;
         font-size: 0.8rem;
         font-style: italic;
+     margin: 1rem;
         opacity: 0.9;
+            margin-inline: auto;
       }
   .bottom {
     font-style: normal;

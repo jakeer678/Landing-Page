@@ -22,15 +22,16 @@ const MainContent = () => {
       </div>
       <div>
         <div className="container_bottom">
-          <img src="IMG_4961-edited.jpg" alt="" />
+          <img src="IMG_4961-edited.jpg" alt="" className="images_img" />
           <p>
             “Considering the pace at which the logistics sector is galloping,
-            and given its increasing complexities, it is imperative that
-            industry leaders and dynamic start-ups team up. We must leverage
-            each other’s capabilities and strengths to enhance efficiencies and
-            streamline operations at all levels of global supply chains.
-            Adoption of new-age technologies, co-creating innovative solutions
-            that challenge status quo, and working towards reducing the carbon
+            and given its increasing<br></br> complexities, it is imperative
+            that industry leaders and dynamic start-ups team up.<br></br> We
+            must leverage each other’s capabilities and strengths to enhance
+            efficiencies and streamline <br></br>operations at all levels of
+            global supply chains. Adoption of new-age technologies, co-creating{" "}
+            <br></br>innovative solutions that challenge status quo, and working
+            towards reducing the carbon<br></br>
             footprint of the logistics sector are factors that should ideally
             drive this collaboration.”
             <br></br> <br></br>

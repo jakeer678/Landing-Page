@@ -3,17 +3,24 @@
 @media screen and (min-width:767px) {
     .headText {
         display: flex;
-        justify-content: space-evenly;
+        margin-left: 85px;
         align-items: center;
-        margin-top: 2.5rem;
+        margin-top: 70px;
+        width: 100%;
     }
     .headText img {
-        width: 15rem;
-        height: 7rem;
+        width: 295px;
+        height: 130px;
+        margin-left: 16px;
     }
     .headText p {
-        font-size: 0.8rem;
-       
+        font-size: 12px;
+       margin-top: 10px;
+       margin-left: 16px;
+       font-weight: 500;
+    }
+    .lastimage {
+        margin-bottom: 45px;
     }
     .headText span {
         font-weight: 700;

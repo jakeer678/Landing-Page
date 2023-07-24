@@ -3,7 +3,7 @@ import "./SubTextComponent.css";
 
 const SubTextComponent = () => {
   return (
-    <>
+    <section>
       <div className="mainheading">
         <div className="subhaeding">
           <h1>
@@ -25,18 +25,16 @@ const SubTextComponent = () => {
             <br></br>CFS-ICD, domestic and international air freight, contract
             logistics, and logistics parks.
           </p>
-        </div>
-        <div className="subheadings">
-          <p>
+          <h4>
             India’s leading <br></br>integrated logistics company <br></br>
             <hr></hr>30 years of experience<br></br>
             <hr></hr>
             Network in 180 countries <br></br>
             <hr></hr>19,800 PIN Codes served in India<hr></hr>
-          </p>
+          </h4>
         </div>
       </div>
-    </>
+    </section>
   );
 };
 

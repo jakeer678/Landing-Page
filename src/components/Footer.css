@@ -9,12 +9,13 @@ display: inline-block;
 position: relative;
 width: 100%;
 color:white;
+width: 100%;
     }
     .textimage {
 position: absolute;
-left: 20%;
+left: 8%;
 top: 10%;
-
+width: 100%;
 transform: (-50%, -50%);
     }
     .footer img {
@@ -25,12 +26,13 @@ transform: (-50%, -50%);
     .textimage p {
         font-size: 0.8rem;
         opacity: 0.7;
+       position: absolute;
+       left: 0%;
     }
     .sideheading {
         display: flex;
         align-items: center;
-       justify-content: space-between;
-
+      
     }
 .btnbtn {
     background: transparent;
@@ -43,7 +45,9 @@ transform: (-50%, -50%);
     padding-top: 0.4rem;
     padding-bottom: 0.4rem;
     opacity: 1;
-    margin-left: 8rem;
+   position:absolute;
+   left: 45%;
+   scale: 0.8;
 }
  
 }
